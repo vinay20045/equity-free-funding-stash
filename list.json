@@ -1,0 +1,290 @@
+[
+    {
+        "id": "cisco_launchpad",
+        "name": "Cisco LaunchPad",
+        "location": "Bangalore, India",
+        "coords": {"lat": 12.971599, "lng": 77.594563},
+        "funding": "8K USD",
+        "about": "Cisco LaunchPad Program aims to support startups in their entrepreneurial journey &amp; help them scale to the next level by providing the critical resources needed. It is a one of a kind platform that brings together Cisco technologies, startups, &amp; the partner/developer community to deliver business relevant end-to-end digital solutions. LaunchPad is an opportunity to be part of an innovation ecosystem. In addition to technology &amp; business mentorship. Selected startups get a grant of $8000 upon graduation &amp; ~$500 per month is available to support the IT needs of startups.",
+        "website_link": "www.cisco.com/c/m/en_in/launchpad"
+    },
+    {
+        "id": "you_is_now",
+        "name": "You is Now",
+        "location": "Berlin, Germany",
+        "coords": {"lat": 52.520007, "lng": 13.404954},
+        "funding": "15K EUR",
+        "about": "You is Now is a three month international accelerator program based in Berlin, Germany primarily focusing on real estate related startups. The Accelerator program covers all aspects of a company launch from idea to product market fit, customer acquisition &amp; fundraising. During the course of the program, the founders will receive talks by guest speakers, workshops &amp; most importantly, hands-on office hours by internal experts.",
+        "website_link": "www.youisnow.com"
+    },
+    {
+        "id": "startup_sauna",
+        "name": "Startup Sauna",
+        "location": "Espoo, Finland",
+        "coords": {"lat": 60.205491, "lng": 24.6559},
+        "funding": "1K EUR",
+        "about": "Startup Sauna is an accelerator for top-notch tech teams focusing on finding the right product-market fit &amp; go-to-market strategy. The 5-week accelerator is free of cost &amp; takes no equity. Teams can select either a grant of €1000 or free accommodation during the program.",
+        "website_link": "www.startupsauna.com"
+    },
+    {
+        "id": "spinlab",
+        "name": "Spinlab",
+        "location": "Leipzig, Germany",
+        "coords": {"lat": 51.339695, "lng": 12.373075},
+        "funding": "6K EUR",
+        "about": "SpinLab supports the growth of innovative teams who want to scale up their businesses. Located within Leipzig’s creative the accelerator provides access to infrastructure (co-working office space &amp; technology), coaching &amp; mentoring as well as to their international network of successful business founders, established market players &amp; leading investors. The accelerator provides each startup a small amount of €6,000 through cooperation with the city of Leipzig which will cover expenditures such as accomodation &amp; travel costs.",
+        "website_link": "www.spinlab.co"
+    },
+    {
+        "id": "lisbon_challenge",
+        "name": "Lisbon Challenge",
+        "location": "Lisbon, Portugal",
+        "coords": {"lat": 38.722252, "lng": -9.139337},
+        "funding": "1K EUR",
+        "about": "Lisbon Challenge is a flagship accelerator of Beta-I focused on product acceleration while ensuring startups are ready for investment on demo day. The 3-month acceleration program is one of the most intensive international programs for startups with an MVP, working hard to achieve product-market fit, in an international environment. The program offers €150K in perks, free office space &amp; a €1,000 grant for international teams to help with travel &amp; accommodation. Workshops for founder-product-market-fit are organized along with continuous support &amp; 1-on-1s to help in structuring the start-up, defining KPIs &amp; prioritising the roadmap.",
+        "website_link": "www.lisbon-challenge.com"
+    },
+    {
+        "id": "open_data_incubator",
+        "name": "Open Data Incubator",
+        "location": "London, United Kingdom",
+        "coords": {"lat": 51.507351, "lng": -0.127758},
+        "funding": "Upto 100K EUR",
+        "about": "The Open Data Incubator for Europe (ODINE) is aimed at small &amp; medium-sized enterprises (SMEs) building a business around open data. It is a 6 month incubator for open data entrepreneurs across Europe. Open data is a new field, yet it is supporting a rapidly developing market for innovative business ideas. Startups &amp; SMEs based on open data are creating an open data ecosystem, using data to build sustainable businesses that generate economic, social &amp; environmental impact. During the incubation program, companies receive up to €100K equity-free funding, mentoring, business &amp; data training, high-quality media exposure, visibility at international events &amp; introductions to investors. Funds can be spent on salaries, equipment, consumables, travel etc.",
+        "website_link": "www.opendataincubator.eu"
+    },
+    {
+        "id": "ideaspace",
+        "name": "Ideaspace",
+        "location": "Metro Manila, Philippines",
+        "coords": {"lat": 14.609054, "lng": 121.022257},
+        "funding": "50K PHP",
+        "about": "﻿Ideaspace is a multi-faceted support program designed to help budding technopreneurs as they seek to build, develop &amp; operate as startup companies in the Philippines &amp; to transform their ideas into successful &amp; scalable businesses. The incubation program is kicked off with a 5-day bootcamp followed by a 6-week remote incubation phase. The acceleration phase will then run for 4.5 months. Pitch days will be open to partners, investors &amp; the community. Prototype Day will be the midpoint event for the acceleration phase &amp; demo day will be the ending event.",
+        "website_link": "www.ideaspacefoundation.org"
+    },
+    {
+        "id": "techfounders",
+        "name": "TechFounders",
+        "location": "Munich, Germany",
+        "coords": {"lat": 48.135125, "lng": 11.581981},
+        "funding": "25K EUR",
+        "about": "TechFounders is a 20 week international accelerator program based in Munich, Germany. The accelerator brings tech startups together with industry partners &amp; venture capitalists. During this accelerator program the teams will have the chance to cooperate with one of TechFounder's industry partners, who can help the teams develop their business. The teams will also have access to hardware prototypes, data &amp; APIs in order to test &amp; further develop their product. The aim of the accelerator program is to get the startups an industry partner as a high class customer or investor. The accelerator focuses on startups in the automotive field, robotics, automation, financial services, clean-tech, software, telecommunications, electronics, big data, insurance, industry 4.0, mobility, wind power &amp; related industries. ",
+        "website_link": "www.techfounders.com"
+    },
+    {
+        "id": "project_entrepreneur",
+        "name": "Project Entrepreneur",
+        "location": "New York City, United States",
+        "coords": {"lat": 40.712784, "lng": -74.005941},
+        "funding": "10K USD",
+        "about": "Project Entrepreneur ignites bold ideas by providing women access to the tools, training &amp; networks needed to build scalable, economically impactful companies. Their plan to achieve this goal through a multi-faceted national initiative that includes this robust digital hub, multi-city events, a venture competition, &amp; a 5-week accelerator program. Finalists will be pre-selected to pitch during the PE weekend intensive. The finalists will pitch live to a panel of judges for an opportunity to win a $10,000 grant &amp; a spot in the 5-week PE accelerator in NYC.",
+        "website_link": "www.projectentrepreneur.org"
+    },
+    {
+        "id": "french_tech_ticket",
+        "name": "French Tech Ticket",
+        "location": "Paris, France",
+        "coords": {"lat": 48.843223, "lng": 2.2752},
+        "funding": "45K EUR",
+        "about": "The French Tech Ticket is a one year program by the French government to attract gifted &amp; ambitious individuals from all around the world &amp; help them set up &amp; develop their startup in France. More than just a startup visa, this 12-month program offers end to end support on the journey from early stage start-up to successful business from financial support &amp; training to first customer acquisition. Selected entrepreneurs &amp; projects will work closely in one of the 41 top French partner incubators providing among others mentoring, fundraising strategy, expert advice &amp; pitch practice.",
+        "website_link": "www.frenchtechticket.com"
+    },
+    {
+        "id": "hello_tomorrow",
+        "name": "Hello Tommorow",
+        "location": "Paris, France",
+        "coords": {"lat": 48.881732, "lng": 2.39399},
+        "funding": "15K to 100K EUR",
+        "about": "Hello Tomorrow is a global non-profit headquartered in Paris that aims to accelerate science & tech innovation by empowering startups with cash prizes &amp; connections with investors &amp; industrials. Hello Tomorrow challenge is a global startup competition for the most promising science &amp; technology projects &amp; startups that aim to solve the world’s pressing issues. There are 10 different tracks for 2016: Air Quality, Healthcare, Beauty & Wellbeing, Transportation & Mobility, Energy,Food & Agriculture, Data, Waste & Water, Aeronautics, &amp; Industry 4.0. The grand prize winner of the Challenge is awarded €100k. Track finalists will be awarded €15k.",
+        "website_link": "www.challenge.hello-tomorrow.org"
+    },
+    {
+        "id": "ideator",
+        "name": "Ideator",
+        "location": "San Francisco, United States",
+        "coords": {"lat": 37.774929, "lng": -122.419416},
+        "funding": "5K USD",
+        "about": "The Ideator May Challenge is an idea competition organized by Ideator. The winner gets $5000 &amp; exculsive access to Ideator advisory board, key mentors &amp; investors, free tools &amp; services from Ideator's sponsors",
+        "website_link": "www.ideator.com/maychallenge"
+    },
+    {
+        "id": "parallel18",
+        "name": "Parallel18",
+        "location": "San Juan, Puerto Rico",
+        "coords": {"lat": 18.220833, "lng": -66.590149},
+        "funding": "40K to 75K USD",
+        "about": "Parallel18 is an economic development initiative that attracts early stage, high impact startups that can scale from Puerto Rico to global communities, beyond the island, including mainland US, Latin America, &amp; Europe. The goal of the program is to position Puerto Rico as a unique gateway to scale globally. The program is running with the support of the Puerto Rico Science &amp; Technology Trust, the Department of Economic Development &amp; Commerce &amp; the Puerto Rico Industrial Development Company.",
+        "website_link": "www.parallel18.com"
+    },
+    {
+        "id": "startup_chile",
+        "name": "Startup Chile",
+        "location": "Santiago, Chile",
+        "coords": {"lat": -33.43783, "lng": -70.650449},
+        "funding": "10 Million to 60 Million CLP",
+        "about": "Start-Up Chile is a program created by the chilean government that seeks to attract early-stage, high-potential entrepreneurs to bootstrap their startups using Chile as a platform to go global. There are 3 programs organized by Startup Chile namely The S Factory (pre-acceleration program with two rounds in a year of 20-30 companies each focused on female founders providing 10 million CLP &amp; 3 months acceleration), Seed(acceleration program with two rounds in a year for 80-100 companies for startups providing 20 million CLP &amp; 6 months acceleration) &amp; Scale(follow-on fund with two rounds in a year for top performing startups incorporated in Chile providing 60 million CLP)",
+        "website_link": "www.startupchile.org"
+    },
+    {
+        "id": "future_starter",
+        "name": "Future Starter",
+        "location": "Singapore",
+        "coords": {"lat": 1.352083, "lng": 103.819836},
+        "funding": "28K SGD",
+        "about": "Income Future Starter, powered by TAG.PASS, is an 11-week accelerator program that fast tracks the commercialisation of products &amp; market access through mentorship &amp; co-innovation with Income. The program comprises of 3 core phases - business model development &amp; validation, product development &amp; pitch for investments. Startups will go through intensive training &amp; guidance where they are expected to conduct field interviews, problem-solution validation, rapid prototyping, storyboarding, software &amp; hardware development, growth hacking, marketing, branding, sales &amp; business pitching amongst others. Income will provide the startups with required guidance &amp; support including S$28,000 entrepreneur grant.",
+        "website_link": "www.income.com.sg/future-starter/index.html"
+    },
+    {
+        "id": "arch_grants",
+        "name": "Arch Grants",
+        "location": "St.Louis, United States",
+        "coords": {"lat": 38.610302, "lng": -90.412518},
+        "funding": "50K USD",
+        "about": "Arch Grants is a nonprofit organization that accelerates economic development by providing $50,000 equity-free grants &amp; pro bono support services to entrepreneurs who locate their early-stage businesses in St. Louis. Through its competitive global startup competition, Arch Grants retains &amp; attracts the most innovative entrepreneurs to the St. Louis region. This program is an aggressive effort to inspire the next generation of employers, civic leaders, &amp; philanthropists for St. Louis.",
+        "website_link": "www.archgrants.org"
+    },
+    {
+        "id": "vunk",
+        "name": "VUNK",
+        "location": "Tallinn, Estonia",
+        "coords": {"lat": 59.436961, "lng": 24.753575},
+        "funding": "Upto 30K EUR",
+        "about": "VUNK startup labs is an entry point for innovative B2B &amp; B2C startups in the region seeking to partner with Telia to improve their offering &amp; get access to the market. The VUNK Accelerator is Eesti Telia’s startup accelerator program. It’s a full-time, 4-week intensive program, led by Startup Wise Guys. Telia Eesti does not retain equity in the companies participating in the VUNK Accelerator program.",
+        "website_link": "www.vunk.eu/en"
+    },
+    {
+        "id": "kickstart_accelerator",
+        "name": "Kickstart Accelerator",
+        "location": "Zurich, Switzerland",
+        "coords": {"lat": 47.376887, "lng": 8.541694},
+        "funding": "25K CHF",
+        "about": "Kickstart, the swiss accelerator is a fast-track gateway for entrepreneurs from near &amp; far to access the swiss innovation ecosystem. The 11-week program is open to the best international early-stage startups with a promising business idea within our 4 verticals: Food, Smart & Connected Machines, FinTech &amp; Future & Emerging Technologies. For 11 weeks selected founders &amp; their teams live &amp; work in Zurich, Switzerland. The accelerator provides founders with up to 25,000 swiss francs in prize money, a monthly founder stipend, mentoring, a shared office space &amp; fast-track access to relevant industry partners &amp; the swiss startup ecosystem. The program culminates in demo day where each team presents to investors, corporate leaders &amp; the media.",
+        "website_link": "www.kickstart-accelerator.com"
+    },
+    {
+        "id": "fit_for_start",
+        "name": "Fit for Start",
+        "location": "Luxembourg city, Luxembourg",
+        "coords": {"lat": 49.611621, "lng": 6.131935},
+        "funding": "50K EUR",
+        "about": "Fit for Start offers early-stage funding &amp; coaching to ICT startups in Luxembourg. The program helps startups develop a prototype of their product &amp; learn how to test it with their first clients. It is a 16-week program of coaching with weekly follow-up by lean startup experts, opportunities to benefit from the offer of other players that support startups in Luxembourg &amp; a grant of €50,000.",
+        "website_link": "en.luxinnovation.lu/Services/Soutien-aux-start-up-innovantes/Fit-for-Start"
+    },
+    {
+        "id": "merck_accelerator_germany",
+        "name": "Merck Accelerator",
+        "location": "Darmstadt, Germany",
+        "coords": {"lat": 49.872825, "lng": 8.651193},
+        "funding": "50K EUR",
+        "about": "Merck Accelerator in Germany is applicable for startups in the fields of healthcare, life science &amp; performance materials, with a digital perspective. The aim of the accelerator is to support startups with the potential to reshape entire industries &amp; make people's lives richer. The program provides financial support up to €50,000 &amp; access to a global network with 50,000+ industry leaders &amp; investors",
+        "website_link": "accelerator.merckgroup.com/darmstadt"
+    },
+    {
+        "id": "merck_accelerator_kenya",
+        "name": "Merck Accelerator",
+        "location": "Nairobi, Kenya",
+        "coords": {"lat": -1.292066, "lng": 36.821946},
+        "funding": "30K USD",
+        "about": "Merck Accelerator in Kenya is applicable for startups in the field of digital healthcare. The aim of the accelerator is to support startups with the potential to reshape entire industries &amp; make people's lives richer. The program provides financial support up to $30,000 &amp; access to a global network with 50,000+ industry leaders &amp; investors.",
+        "website_link": "accelerator.merckgroup.com/nairobi"
+    },
+    {
+        "id": "light_house_labs",
+        "name": "Lighthouse Labs",
+        "location": "Richmond, United States",
+        "coords": {"lat": 37.540725, "lng": -77.436048},
+        "funding": "20K USD",
+        "about": "Lighthouse Labs accelerator program is designed to give startups an unfair advantage in the region by providing them with accelerated access to capital, connections, &amp; customers. It is a 3 month program that provides $20,000 in seed capital without equity stakes &amp; amazing mentor sessions led by industry experts in design thinking, product &amp; software development, customer development, team culture building, fundraising, &amp; lean startup practices",
+        "website_link": "www.lighthouselabsrva.com"
+    },
+    {
+        "id": "seed_brazil",
+        "name": "SEED Brazil",
+        "location": "Minas Gerais, Brazil",
+        "coords": {"lat": -18.512178, "lng": -44.555031},
+        "funding": "68K to 80K BRL",
+        "about": "SEED - Startups &amp; Entrepreneurship Ecosystem Development is a 6 month program of support to entrepreneurs, domestic or foreign, to develop technology-based business projects in Minas Gerais. The program provides seed capital of BRL 68,000 for projects with 2 participants while a project with 3 participants gets BRL 80,000.",
+        "website_link": "seed.mg.gov.br/sobre"
+    },
+    {
+        "id": "bmw_startup_garage",
+        "name": "BMW Startup Garage",
+        "location": "Munich, Germany",
+        "coords": {"lat": 48.135125, "lng": 11.581981},
+        "funding": "Variable",
+        "about": "The BMW Startup Garage is the venture client unit of the BMW group. As a venture client, the BMW group becomes a client of a startup, at an early stage when its product, service or technology is not yet mature. In comparison to venture capital, they purchase a first unit of a startup's product, service or technology, not its equity. The money startup receives when accepted to the program is a payment for a prototype of their technology &amp; the costs associated with its integration &amp; validation. This payment accounts as revenue &amp; not an equity investment.",
+        "website_link": "www.bmwstartupgarage.com"
+    },
+    {
+        "id": "shell_springboard",
+        "name": "Shell Springboard",
+        "location": "London, United Kingdom",
+        "coords": {"lat": 51.507351, "lng": -0.127758},
+        "funding": "40K to 150K GBP",
+        "about": "The Shell Springboard program supports UK businesses with bright solutions to reduce carbon emissions. One national winner will receive £150,000 &amp; a further five regional winners will each get £40,000 of equity-free funding, as well as feedback from leading academics, investors &amp; policy makers to help scale up their enterprises.",
+        "website_link": "www.shellspringboard.org"
+    },
+    {
+        "id": "magic",
+        "name": "MaGIC",
+        "location": "Cyberjaya, Malaysia",
+        "coords": {"lat": 2.921318, "lng": 101.655935},
+        "funding": "6K MYR",
+        "about": "A program to accelerate startups to be investment ready, &amp; to build a strong ASEAN startup community by cultivating ASEAN relationships. The program is approximately four months long &amp; MaGIC will provide each participant a fixed living allowance of RM1,500 per month over the course of four months.",
+        "website_link": "accelerator.mymagic.my/en/asean/"
+    },
+    {
+        "id": "prototron",
+        "name": "Prototron",
+        "location": "Tallinn, Estonia",
+        "coords": {"lat": 59.436961, "lng": 24.753575},
+        "funding": "10K EUR",
+        "about": "Prototron provides financing &amp; consulting for implementation of ideas, inventions, devices &amp; solutions that make our everyday life easier, more convenient &amp; comfortable. It is an all Estonian competition of ideas &amp; the best ideas will receive start-up funds of up to €10,000, legal support, corporate marketing channels &amp; 6 months of incubation in Tehnopol startup incubator to prepare the startups for market entry &amp; investment readiness.",
+        "website_link": "www.prototron.ee"
+    },
+    {
+        "id": "chobani_food_incubator",
+        "name": "Chobani Food Incubator",
+        "location": "New York City, United States",
+        "coords": {"lat": 40.712784, "lng": -74.005941},
+        "funding": "25K USD",
+        "about": "Chobani's Food Incubator is designed to help nurture, support &amp; celebrate like-minded food startups that can positively impact the world. As a part of this unique program, food entrepreneurs who share the vision for delicious, nutritious, natural &amp; accessible (DNNA) food will receive support, guidance &amp; resources needed to provide better food for all. The program includes a 6-month Incubator program for one executive &amp; up to 2 team members.",
+        "website_link": "www.chobanifoodincubator.com"
+    },
+    {
+        "id": "startup_hub_warsaw",
+        "name": "Startup Hub Warsaw",
+        "location": "Warsaw, Poland",
+        "coords": {"lat": 52.229676, "lng": 21.012229},
+        "funding": "30K PLN",
+        "about": "Startup Hub Warsaw aims to make startup development as easy as possible. Participation in the program gives startups access to Startup Hub Poland's great network of startups, supporting organizations, scientific organizations, research units &amp; universities as well. The program provides a grant for PLN 30,000 &amp; has three phases - Warm up (10 days), Grow up (1 month) &amp; Demo day (2 days).",
+        "website_link": "www.startuphub.pl"
+    },
+    {
+        "id": "innovating_justice",
+        "name": "Innovating Justice",
+        "location": "Hague, Netherlands",
+        "coords": {"lat": 52.070498, "lng": 4.3007},
+        "funding": "Variable",
+        "about": "The Hague Institute for Innovation of Law (HiiL) Justice Acclerator runs challenges across the world to find the most innovative startups providing access to justice in their home countries. The Accelerator scouts, supports, &amp; trains the entrepreneurs behind these startups to strengthen the skills necessary to run a sustainable, scalable justice innovation. ",
+        "website_link": "www.innovatingjustice.com/en/"
+    },
+    {
+        "id": "seoul_global_startup_center",
+        "name": "Seoul Global Startup Center",
+        "location": "Seoul, South Korea",
+        "coords": {"lat": 37.566535, "lng": 126.977969},
+        "funding": "10 Million KRW",
+        "about": "Seoul Global Startup Center is a 5 month program funded by the Seoul Metropolitan Government to assist foreigners &amp; teams with global products in developing startups &amp; small enterprises. Each team that enters the center will receive a 10 million KRW voucher for expenses, free 24/7 office space, visa assistance, business services, legal services, mentoring, consulting, workshops, &amp; the opportunity to travel to an overseas market.",
+        "website_link": "www.seoulgsc.com/qna"
+    },
+    {
+        "id": "innovators_program",
+        "name": "Innovators Program",
+        "location": "Raleigh, United States",
+        "coords": {"lat": 35.77959, "lng": -78.638179},
+        "funding": "10K to 50K USD",
+        "about": "The Innovators Program is a 12 week program that embraces the core principles of design thinking, lean startup, SaaS business models &amp; team execution; enabling founders to rapidly test &amp; validate their ideas in the market with real customers. Selected startups get $10,000 in equity free funding at the beginning while an additional $50,000 will be allocated to most successful teams at the end",
+        "website_link": "www.innovatorsprogram.co"
+    }
+]

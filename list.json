@@ -91,12 +91,12 @@
     },
     {
         "id": "hello_tomorrow",
-        "name": "Hello Tommorow",
+        "name": "Hello Tomorrow",
         "location": "Paris, France",
         "coords": {"lat": 48.881732, "lng": 2.39399},
         "funding": "15K to 100K EUR",
         "about": "Hello Tomorrow is a global non-profit headquartered in Paris that aims to accelerate science & tech innovation by empowering startups with cash prizes &amp; connections with investors &amp; industrials. Hello Tomorrow challenge is a global startup competition for the most promising science &amp; technology projects &amp; startups that aim to solve the world’s pressing issues. There are 10 different tracks for 2016: Air Quality, Healthcare, Beauty & Wellbeing, Transportation & Mobility, Energy,Food & Agriculture, Data, Waste & Water, Aeronautics, &amp; Industry 4.0. The grand prize winner of the Challenge is awarded €100k. Track finalists will be awarded €15k.",
-        "website_link": "www.challenge.hello-tomorrow.org"
+        "website_link": "challenge.hello-tomorrow.org"
     },
     {
         "id": "ideator",
